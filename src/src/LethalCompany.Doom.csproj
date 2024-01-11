@@ -5,6 +5,7 @@
     <Description>Play DOOM in the Ship's Terminal</Description>
     <PackageId>LC_DOOM</PackageId>
     <PackageReadMeFile>..\..\README.md</PackageReadMeFile>
+    <PluginStagingProfile>LCModded</PluginStagingProfile>
     <PluginId>cryptoc1.lethalcompany.doom</PluginId>
     <Version>1.1.2</Version>
   </PropertyGroup>
